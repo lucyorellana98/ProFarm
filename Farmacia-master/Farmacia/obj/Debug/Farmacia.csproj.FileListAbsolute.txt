@@ -1,0 +1,16 @@
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\bin\Debug\BL.Farmacia.dll
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\bin\Debug\BL.Farmacia.pdb
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.FormClientes.resources
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.FormFacturas.resources
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.FormLogin.resources
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.FormMedicamentos.resources
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.FormMenu.resources
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.FormProveedores.resources
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Lucy\Desktop\Farmacia-master\Farmacia\obj\Debug\Farmacia.pdb
